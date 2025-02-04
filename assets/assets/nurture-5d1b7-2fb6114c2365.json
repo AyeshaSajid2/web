@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "nurture-5d1b7",
-  "private_key_id": "58d5992a4341a30481a60fdb2dbaa990fc597f16",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC99bc8B3V4b15u\nyfwwofu9Eo7ye8OQNTZvM57CiqjvFPHpfxaiD1dDyj4Ni0lokC9fVKumeRGDcM6v\n4qo5RbbjQpnRV0hFnF8Hjwvo2y7bXcTl26e0F8fO8ugcd2wTcmyK1VOI/QTBEnM4\n9afoCNTcyhu0zOJ1XIM6UJ0oFnW/6oTk7NQGNb8PoEMq4EW82rvQtOUcNBmgkBhd\nubKyA/Hw43uf+sIr2svK0GE1/wSK/yNcUmxYUKlPaDqeFAMUpYILvQOhHscHV9Pa\nZFCyu2ESHkrZGaeXHD7aVVr6V6SAT/bgQFe3xC9/MdfbJfGywJ203ImLubtFP//U\nW2bme+EvAgMBAAECggEADVfDD8kJAUqhUXAynJ/kH3sRkLViHoZTqn/vuNkl1eqc\ntg/34QOULO4kaa3M8Yv0fTe5+YQrghYHDpJXQ+qXrA2I4bbFxs3zBtmPYUMetB3k\nBK6RxbPzPvVk7wrxtnP6bSNgLhEc/QrKDnLYNmjYZXcfdxWlGnqYZRzgd75hdaIT\nglv6KZZSMnBvtF03Q3GEaWVnartXfPqjfS/LEYpihc7L3v1c3gCMJWQsx/fzmCSJ\nlwGdQILl1zK3/qnM7g145I+fBqsCII2sLA/ReRSRiBUB6Y5oZqtPvVc7Zhl/lLOx\nD7msbbHP9mRK9h6PxP2pGdSDTjqqh8jPBBN16sOXcQKBgQD8RJDcFKvwsudB6FeL\nqRf4jo6XFBCaoxNLYRSj3U4kZUHZXj6dWz0LXYTMHVfYdN5s3Rf5zyiJwv5u5NKR\nsEhktdIOt1MvSjXwbrIV7ZbRXweccNKm/2AYgbTRx7PRlccb5XS/8xRX06qe+oKs\n0HZWp/BSYIHwcuE8Czd9L9pP1QKBgQDAxSpx5/I4Wm0H9oRfbiRs3GPgp3rn2zk5\njQ2YFLs2WDWww8xQ+A8eFKtMpQODId+DeHzoY44Fjcp+fp1ylitrTTa5GItfVe2J\nKKp4Q5CZhnU4xoDN0JYWqhmeEiZYHS6OC5YV7mHkyHghuFPAEhLriqoC47PgMFEd\nKRAUE8Cy8wKBgQDnemMSD0XWj9Lz/yaV2ItOYEEnEBpMSuche+tckW1qqB9MPdZm\nvZm+HAoG4cYBsPuIGTgu2Y/xGSQuzXkKhh9nig89wapq8kWcYXa3+FMzu2dYfY5N\n/ndHBX3OINk3r6AMUPhYScyY6njdeDEAMijkSyWR8UxKPp++YOyByq8gIQKBgDOf\n2ckdc8nRtadPRo4EAi9BKmJMl+al2AJomv5iduyL3P0Uwo/gjrPglyt0eadRl/ku\neE0H9E3adiNAJ0w7mS8oQ4J4Z0LF0VJNGLISbhQfZR8qUe5McRVqwmeJtskcL46M\n3cnLyF2rrjhhk9Q5QuXfgb46Wr6sUdy8VXj6/T0vAoGAFfyX8pMuqy4bEFJFBUlM\nTFXOBOgdmOO0hPrq7Z4CxV7bV/TEqw9ZH0JPXL6TE+VF1+KRdbCurdiOh3iFgUZy\nAXJl0hnR/IWRADtK1J7p8N6W9KJ1JY13OtRIhJijHO/AHWmfhOYPR4T8S+uuOkkR\nRT5u9lSbotBQf7Ww+24eZ3k=\n-----END PRIVATE KEY-----\n",
-  "client_email": "oasis-updated@nurture-5d1b7.iam.gserviceaccount.com",
-  "client_id": "118000395005961060954",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oasis-updated%40nurture-5d1b7.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
